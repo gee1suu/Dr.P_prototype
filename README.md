@@ -21,13 +21,13 @@ App(WebView)<br>
 이름:송연우<br>  
 학번:1871022<br> 
 역할:조장 , app design<br>
-이메일:younwoo0810@gmail.com<br> 
- <br>
+이메일:younwoo0810@gmail.com<br>
+
 이름: 안지수<br>
 학번: 1615038<br>
 역할:  deep learning model design<br>
 이메일: gee1suu@gmail.com<br>
- <br>
+
 이름: 임하영 <br>
 학번: 1615059<br>
 역할: deep learning model design<br>
