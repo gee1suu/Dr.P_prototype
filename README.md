@@ -1,10 +1,5 @@
 # Dr.P
-
-![_DR P_ 피부를 부탁해_page-0001](https://user-images.githubusercontent.com/80879666/144596312-c92bc6bc-67cd-4365-8452-0442c95c53df.jpg){: width="70%" height="70%"}
-![_DR P_ 피부를 부탁해_page-0002](https://user-images.githubusercontent.com/80879666/144596326-82a2c572-b3bf-409c-8800-c9ba389c5042.jpg){: width="70%" height="70%"}
-![_DR P_ 피부를 부탁해_page-0003](https://user-images.githubusercontent.com/80879666/144596331-8e12bcac-a764-4e9c-b10c-d6f32dc323a0.jpg){: width="70%" height="70%"}
-![_DR P_ 피부를 부탁해_page-0004](https://user-images.githubusercontent.com/80879666/144596342-7f846bad-d273-4c53-914d-b5c028f58fec.jpg){: width="70%" height="70%"}
-
-<img src="https://user-images.githubusercontent.com/80879666/144596312-c92bc6bc-67cd-4365-8452-0442c95c53df.jpg  width="200" height="400"/>
-                                                                                                                                         
-                                                                                                                                        
+![_DR P_ 피부를 부탁해_page-0001](https://user-images.githubusercontent.com/80879666/144598115-6b187776-cc85-4fa1-8100-4a1170f3f19e.jpg)
+![_DR P_ 피부를 부탁해_page-0002](https://user-images.githubusercontent.com/80879666/144598230-fc8c857b-9673-46c8-a7e3-155c9f731589.jpg)
+![_DR P_ 피부를 부탁해_page-0003](https://user-images.githubusercontent.com/80879666/144598235-10cf419e-36c5-4cc6-bd7f-4caaba263b4e.jpg)
+![_DR P_ 피부를 부탁해_page-0004](https://user-images.githubusercontent.com/80879666/144598243-1ecc4db4-ae08-4208-9554-7e6ec1967718.jpg)
