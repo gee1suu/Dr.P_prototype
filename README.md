@@ -28,7 +28,7 @@ App(WebView)<br>
 역할:  deep learning model design<br>
 이메일: gee1suu@gmail.com<br>
 
-이름: 임하영 <br>
+이름: 임하영<br>
 학번: 1615059<br>
 역할: deep learning model design<br>
 이메일: flha3690@ewhain.net<br>
