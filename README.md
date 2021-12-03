@@ -18,10 +18,10 @@ App(WebView)<br>
 * 바쁜 생활 속에서 시간이 없어 피부과를 가지 못하는 사람<br>
 * 집에서 피부를 셀프로 관리하고 싶지만 관련 지식이 부족한 사람<br>
 ## 2. 팀 소개
-이름:송연우<br>
-학번:1871022<br> 
-역할:조장 , app design<br>
-이메일:younwoo0810@gmail.com<br>
+이름: 송연우<br>
+학번: 1871022<br> 
+역할: 조장, app design<br>
+이메일: younwoo0810@gmail.com<br>
 
 이름: 안지수<br>
 학번: 1615038<br>
