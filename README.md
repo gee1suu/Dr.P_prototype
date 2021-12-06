@@ -38,7 +38,6 @@ App(WebView)<br>
  <img src = "https://user-images.githubusercontent.com/80879666/144845950-64bfeade-0d39-4a8a-8ce7-9be71edafec1.png" width="25%" height="25%"> <img src = "https://user-images.githubusercontent.com/80879666/144845961-b185cbc8-3557-4f93-9156-db6f83178346.png" width="25%" height="25%"><br>
  <img src = "https://user-images.githubusercontent.com/80879666/144845970-36b60805-a6f1-4bf9-8a0e-963be2d52e88.png" width="25%" height="25%">
 
-최종 완성하려는 프로젝트 내용 중에서 필요한 기능인 갤러리에서 사진을 가져오거나, 
-카메라를 통해 찍은 사진을 가져오는 기능과
+최종 완성하려는 프로젝트 내용 중에서 필요한 기능인 갤러리에서 사진을 가져오거나, 카메라를 통해 찍은 사진을 가져오는 기능과<br>
 딥러닝 모델에 입력해 값을 받아와 출력하는 기능을 구현하였다.
 
